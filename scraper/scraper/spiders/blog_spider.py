@@ -25,7 +25,7 @@ class QuotesSpider(scrapy.Spider):
 
         title = response.css('h1::text').extract_first()
         abstract = response.css('div.text-muted::text').extract_first()
-        author = response.css('div.text::text').extract_first().split(" ")[-1]
+        author = response.css('div.separator-author')[0].css('span::text').extract_first().strip().split(" ")[-1]
         date_published = response.css('span.author-datetime::attr(title)').extract_first().split(" ")[-1]
 
         content= "";
