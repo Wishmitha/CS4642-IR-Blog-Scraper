@@ -48,6 +48,6 @@ class QuotesSpider(scrapy.Spider):
             'url' : response.url
         }
 
-        file_name = 'corpus/' + name + '.json'
+        file_name = 'restaurant_corpus/' + name + '.json'
         with open(file_name, 'w') as file:
             file.write(json.dumps(resaurant_entry, indent=2))

@@ -2,7 +2,1068 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4599e26-a770-4dd4-b16c-b3d7abcdbe61" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/scraper/scraper/spiders/test_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/&amp; Co. (The Steuart).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/AYU (Mövenpick Hotel Colombo).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Aasife Biriyani .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Alhambra (Ramada).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Alumka Food Cabin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Amrith.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Arabian Knights.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Aroma Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Arthur's Pizza Express.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Atrium Restaurant .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Awanhala Restaurant (Bentota).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Barracuda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Batticaloa Muslim Hotel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Beehive by RnR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bellissimo Cafe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Big Bite (Mount Lavinia).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bijou.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Blue Lagoon (Jetwing Lagoon).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Brasserie (Mövenpick Hotel Colombo).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Burgers Hut.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Butter Boutique (Park Street Mews).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/CASA Italia Sri Lanka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe On The 5th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/California Grill (Galadari).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Casadi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chapter One.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Che By Relish.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chinese Delight.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chinese Dragon Cafe (Wattala).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chinese Dragon Cafe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chola Authentic Indian Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cioconat Lounge (CLOSED).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Coffee &amp; Company.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cosy Restaurant (Jaffna).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dinemore (Kohuwala) .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dinemore (Marine Drive) .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dinemore (Moors Sports Club).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dolce Italia (Rajagiriya).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dolce Italia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Domino's (Nugegoda).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dots Bay House.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Double Cheese Coffee &amp; Dine.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Earl’s Passikudah.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Eastern Wok.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fat Panda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Governor's Restaurant (Mount Lavinia Hotel).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Green Cabin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Harpo's Pizza (Nugegoda).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Havi Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hill Top Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hot Cabin (Diyatha Uyana).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel Top Form.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ikoi Tei (Dutch Hospital).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Java Lounge (Fort).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jolly's Ice Cream (Dehiwala).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kaema Sutra.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Karapincha.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/King Chef Restaurant .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kushmi Foods.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kyung Bok Kung.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Le Papillon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Light House Galley .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/London Grill  (Cinnamon Grand).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/London House of Coffee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/MOMO.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Machang (Pannipitya).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mainland China.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ministry Of Crab (Dutch Hospital).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mintage Restaurant (Galle).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mitsi's Delicacies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mongolian BBQ (Majestic City).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mr Burger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mr. Kottu Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Namaste.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nara Thai .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Navro Beach Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/New Majestic Hotel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Olive's Kitchen &amp; Grill.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pelican Restaurant (Kalutara).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pizza Hut (Attidiya).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ponnusamy Non-Veg Chettinad Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Quick Thai (Battaramulla).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Quick Thai (Colombo 7).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/R &amp; R Beach Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rasa Sayang Indian Food.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Red Orchids.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rice Box.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Robata Grill &amp; Lounge (Mövenpick Hotel Colombo).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Salaka Senkada.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Samanala Restaurant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sanekvin Restaurant &amp; Bar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Santoré Bistro Italiano.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sasha Food Court (Kurana).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Scarlet Room (Colombo Courtyard).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sea Fish Restaurant &amp; Bar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Semondu (Dutch Hospital).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sen Saal (Battaramulla).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sen Saal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Seven Eleven Restaurant &amp; Bar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Shang Palace (Shangri-La Colombo).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sheherazade Arabic Restaurant (Galadari).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Slightly Chilled.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Spisia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Streat360.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Subway (Mount Lavinia).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sudarshan Veg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Summer Set.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Swyree.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Taco Bell.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tagine.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tao (Cinnamon Grand).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Bayleaf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Cricket Club Cafe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Fishery (Pegasus Reef).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Paddington.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sooriya Village .json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sushi Bar (Samurai).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Woods.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tomato (Batticaloa).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tong Ni BBQ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Verandah Bistro &amp; Bar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Waves.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Which Way West.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Whight &amp; Co.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Yacht Cabin - Global Towers Hotel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/scraper/spiders/blog_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/ Cafe Alfred.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/ Cafe Alfred.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/ Caramel Pumpkin.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/ Caramel Pumpkin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/&amp; Co. (The Steuart).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/168 Sea Food Palace .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/168 Sea Food Palace .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/3x3 Granola.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/3x3 Granola.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/41 Sugar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/41 Sugar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/668 Chinese Barbecue.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/668 Chinese Barbecue.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/668 Chinese Seafood Restaurant .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/668 Chinese Seafood Restaurant .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/88 Chinese Seafood Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/88 Chinese Seafood Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/88 Restaurant (Dehiwela).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/88 Restaurant (Dehiwela).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/A Minute By Tuk (Galle Dutch Hospital) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/A Minute By Tuk (Galle Dutch Hospital) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/AK Ristoro (Ella).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/AK Ristoro (Ella).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/AYU (Mövenpick Hotel Colombo).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/AYU thé.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/AYU thé.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Aahaara.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Aahaara.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Aakshathai.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Aakshathai.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Aasife Biriyani .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Achcharu Kadé.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Achcharu Kadé.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Acropol.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Acropol.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Adma Agro.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Adma Agro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Agra.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Agra.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ahinsa Restaurant and Guest House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ahinsa Restaurant and Guest House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Al-Bite Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Al-Bite Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Al-Maas.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Al-Maas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Alerics.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Alerics.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Alexandra &amp; Ward Fashion Cafe (ODEL).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Alexandra &amp; Ward Fashion Cafe (ODEL).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Alhambra (Ramada).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Almonds Exclusive.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Almonds Exclusive.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Aloha Coffee Gallery Mirissa.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Aloha Coffee Gallery Mirissa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Alumka Caterers (Thalawathugoda).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Alumka Caterers (Thalawathugoda).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Alumka Food Cabin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Amaage Restaurant (Point Pedro).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Amaage Restaurant (Point Pedro).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Amangalla.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Amangalla.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Amaravathi Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Amaravathi Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Amaya Beach Pasikuda .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Amaya Beach Pasikuda .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ambrosia.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ambrosia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ambul Thiyal.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ambul Thiyal.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ammi's Meaty Delights.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ammi's Meaty Delights.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Amrith.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Amro Vegetarian Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Amro Vegetarian Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Anaaj.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Anaaj.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Anilana Pasikuda (Restaurant).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Anilana Pasikuda (Restaurant).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Anna Marie Bakery .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Anna Marie Bakery .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Anzu's Restaurant (Huang Xiang Ju).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Anzu's Restaurant (Huang Xiang Ju).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Arabian Knights.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Arcade Food Court .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Arcade Food Court .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Aroma Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Arthur's Pizza Express.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Arthur's Pizza.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Arthur's Pizza.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Asian Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Asian Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Asylum.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Asylum.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Aththamma.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Aththamma.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Atrium Restaurant .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/August by Mama Aida's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/August by Mama Aida's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Aviraté Café.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Aviraté Café.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Awanhala (Ambepussa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Awanhala (Ambepussa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Awanhala (Colpetty).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Awanhala (Colpetty).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Awanhala (Navinna) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Awanhala (Navinna) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Awanhala Restaurant (Bentota).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/B's Delights.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/B's Delights.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/B-Leaf.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/B-Leaf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Backyard BBQ.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Backyard BBQ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Baguette.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Baguette.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bakeamazing.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bakeamazing.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bakeology.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bakeology.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Baker Street.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Baker Street.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/BakesByBella.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/BakesByBella.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bamboo Room .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bamboo Room .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Banana Leaf.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Banana Leaf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Barista (Bambalapitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Barista (Bambalapitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Barista (World Trade Center).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Barista (World Trade Center).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Barista Lavazza (Laksala Museum Gallery Cafe) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Barista Lavazza (Laksala Museum Gallery Cafe) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Barista Lavazza (Laksala Thummulla).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Barista Lavazza (Laksala Thummulla).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Barracuda.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Baskin Robbins (Galle Road).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Baskin Robbins (Galle Road).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Baskin Robbins.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Baskin Robbins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Batticaloa Muslim Hotel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bavarian German Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bavarian German Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Beard Papa's (Urban Kitchen).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Beard Papa's (Urban Kitchen).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Beehive by RnR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bellissimo Cafe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Belmio Pizza.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Belmio Pizza.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bencita On Wheels.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bencita On Wheels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Big Bite (Mount Lavinia).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Big Bite Biryani.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Big Bite Biryani.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Big Mama's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Big Mama's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bijou.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bilal Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bilal Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bit Bake Bar (Arugam Bay).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bit Bake Bar (Arugam Bay).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Black Cat Café.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Black Cat Café.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Black Pepper.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Black Pepper.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bliss Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bliss Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Blue Field Tea Centre.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Blue Field Tea Centre.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Blue Lagoon (Jetwing Lagoon).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bo Sevana .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bo Sevana .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Boat Haus Cafe (Haus Chandra).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Boat Haus Cafe (Haus Chandra).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bombai Muttai Man.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bombai Muttai Man.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bombay Sweet Centre (Wellawatte).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bombay Sweet Centre (Wellawatte).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bombay Sweet Mahal (Wellawatte).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bombay Sweet Mahal (Wellawatte).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bombay Sweet Park (Bambalapitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bombay Sweet Park (Bambalapitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Boutique Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Boutique Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Box Colony.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Box Colony.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Brasserie (Mövenpick Hotel Colombo).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bread Company By Sovereign German Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bread Company By Sovereign German Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/BreadTalk (Lipton Circus).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/BreadTalk (Lipton Circus).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/BreadTalk (Mount Lavinia).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/BreadTalk (Mount Lavinia).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/BreadTalk (Park Street).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/BreadTalk (Park Street).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Breeze Beverages &amp; Bakery.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Breeze Beverages &amp; Bakery.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Brew 1867 by Dilmah.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Brew 1867 by Dilmah.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Brownie Lovin' .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Brownie Lovin' .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Buba Restaurant And Beach Club.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Buba Restaurant And Beach Club.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bubble Me Bubble Tea .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bubble Me Bubble Tea .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bubblelement (Battaramulla) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bubblelement (Battaramulla) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bubblelement (Colombo).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bubblelement (Colombo).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bubblelement (Galle) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bubblelement (Galle) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Bubbluscious.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Bubbluscious.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Burger Hut.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Burger Hut.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Burger King (Colpetty).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Burger King (Colpetty).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Burger Q .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Burger Q .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Burger Queen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Burger Queen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Burgers Hut.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Buth Amma.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Buth Amma.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Butter Boutique (Park Street Mews).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Butter Boutique.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Butter Boutique.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/CASA Italia Sri Lanka.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/CP's Grill.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/CP's Grill.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Asiana.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Asiana.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Bagatalle.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Bagatalle.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Beverly .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Beverly .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Chill.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Chill.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Eklektik.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Eklektik.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Fort .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Fort .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Francais by Pourcel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Francais by Pourcel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Hula Hula (Galle) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Hula Hula (Galle) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe J.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe J.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Japan.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Japan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Kumbuk.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Kumbuk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Michaelangelo.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Michaelangelo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Mocha (by Barista).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Mocha (by Barista).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Noir .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Noir .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Nuga.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Nuga.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe On The 5th.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Orange Peel .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Orange Peel .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Seventy Seven.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Seventy Seven.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Shaze.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Shaze.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafe Sociale.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafe Sociale.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cafè Alfresco.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cafè Alfresco.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Café La Défense.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Café La Défense.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Café by Boo.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Café by Boo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cajun On Wheels.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cajun On Wheels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cake Whisperer.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cake Whisperer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Caked.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Caked.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cakes &amp; Bakes Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cakes &amp; Bakes Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cakes &amp; Things By Windya (Mt.Lavinia).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cakes &amp; Things By Windya (Mt.Lavinia).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Calamari (C Negombo).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Calamari (C Negombo).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/California Grill (Galadari).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Calorie Counter (Galle Fort).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Calorie Counter (Galle Fort).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Calorie Counter (Pelawatta).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Calorie Counter (Pelawatta).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Calorie Counter.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Calorie Counter.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Candle Light Hut.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Candle Light Hut.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Candy Cakes.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Candy Cakes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Candy Planet.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Candy Planet.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Capital City Food Court (Badulla).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Capital City Food Court (Badulla).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Carino Ice Cream.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Carino Ice Cream.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Casadi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Central Beach Restaurant, Mirissa.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Central Beach Restaurant, Mirissa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ceylon Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ceylon Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ceylon Sliders (Cafe).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ceylon Sliders (Cafe).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ceylon Tea Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ceylon Tea Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chambers.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chambers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chana's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chana's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chapter One.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chasis.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chasis.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chatz .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chatz .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Che By Relish.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chennai.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chennai.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cherine's Quench.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cherine's Quench.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cherries.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cherries.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chillato.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chillato.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chiminiya.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chiminiya.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/China Manor.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/China Manor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/China Town .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/China Town .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chinaman.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chinaman.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chinatry.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chinatry.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chinese Delight.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chinese Dragon Cafe (Wattala).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chinese Dragon Cafe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chinese Juchunyuan.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chinese Juchunyuan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Choco Luv Pizza Delivery.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Choco Luv Pizza Delivery.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Choco Luv.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Choco Luv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chocoholics.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chocoholics.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chola Authentic Indian Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chop Chop Kottu (ODEL).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chop Chop Kottu (ODEL).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chop Chop Kottu.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chop Chop Kottu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chopsticks.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chopsticks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Christine's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Christine's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Church Street Social (The Fort Bazaar).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Church Street Social (The Fort Bazaar).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Chutneys  (Cinnamon Grand).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Chutneys  (Cinnamon Grand).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cinnamon Grand Brunch.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cinnamon Grand Brunch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cinnamon Lakeside Sushi Bar .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cinnamon Lakeside Sushi Bar .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cioconat Lounge (CLOSED).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Closenberg Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Closenberg Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Coco Veranda (Crescat Boulevard).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Coco Veranda (Crescat Boulevard).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Coco Veranda (Nawala).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Coco Veranda (Nawala).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Coco Veranda.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Coco Veranda.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/CocoCeylon.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/CocoCeylon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Coconut At Cantaloupe Aqua.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Coconut At Cantaloupe Aqua.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Coffee &amp; Company.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Coffee Bar (Grand Hotel, NE).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Coffee Bar (Grand Hotel, NE).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Coffee Stop (Cinnamon Grand).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Coffee Stop (Cinnamon Grand).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Colombo Courtyard Poolside.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Colombo Courtyard Poolside.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Colombo Fort Cafe (Dutch Hospital).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Colombo Fort Cafe (Dutch Hospital).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cookie Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cookie Bar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cookies &amp; You.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cookies &amp; You.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cool Berry.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cool Berry.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Copper Chimney (Hunupitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Copper Chimney (Hunupitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Copper Chimney (Prof. Stanley Wijesundara Mawatha).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Copper Chimney (Prof. Stanley Wijesundara Mawatha).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cosy Restaurant (Jaffna).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cravings.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cravings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cremalato.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cremalato.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Crepeology.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Crepeology.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Crossroads.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Crossroads.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Cup Café (Mount Lavinia).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Cup Café (Mount Lavinia).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/CuppaCrème.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/CuppaCrème.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Curry Leaf (Hilton) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Curry Leaf (Hilton) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Curry Leaves.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Curry Leaves.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Curry Pot.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Curry Pot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Currymuch.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Currymuch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Curve.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Curve.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/DAVA Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/DAVA Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dairy King.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dairy King.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dark Temptations (Home Baker).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dark Temptations (Home Baker).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Decadence.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Decadence.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Deen's Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Deen's Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Delifrance (ODEL).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Delifrance (ODEL).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Devon Bakeaway (Nugegoda).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Devon Bakeaway (Nugegoda).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dilan's Crab.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dilan's Crab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dilmah t-Lounge (Arcade) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dilmah t-Lounge (Arcade) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dilmah t-Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dilmah t-Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dilmi Roti Shop (Beach Corner) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dilmi Roti Shop (Beach Corner) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dineinn.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dineinn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dinemore (Kandy).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dinemore (Kandy).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dinemore (Kohuwala) .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dinemore (Marine Drive) .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dinemore (Moors Sports Club).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dinemore.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dinemore.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Diner's Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Diner's Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Divine (Borella).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Divine (Borella).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Divine (Colpetty).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Divine (Colpetty).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Diwan Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Diwan Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dolce Italia (Rajagiriya).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dolce Italia.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dolce Vita.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dolce Vita.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Domenico's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Domenico's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Domino's (Nugegoda).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Domino's Pizza (Maharagama)  .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Domino's Pizza (Maharagama)  .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Don's Deli.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Don's Deli.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dots Bay House.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dottie's English Tea Room.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dottie's English Tea Room.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Double Cheese Coffee &amp; Dine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Down Town Rotti Hut (Ella).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Down Town Rotti Hut (Ella).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dreamcafe &amp; Guest House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dreamcafe &amp; Guest House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Drunken Monkey.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Drunken Monkey.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dunhinda.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dunhinda.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dushy's (Good Market).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dushy's (Good Market).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Dwaraka.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Dwaraka.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Délicieux (Vegan Home Baker).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Délicieux (Vegan Home Baker).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/E-Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/E-Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/EAT (OZO Colombo).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/EAT (OZO Colombo).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/EEAT.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/EEAT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Earl’s Passikudah.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Eastern Wok.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Eat Right .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Eat Right .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Eatrite.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Eatrite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Echo (Cinnamon Grand).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Echo (Cinnamon Grand).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Eden Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Eden Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/El Janah.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/El Janah.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Elite (Wattala).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Elite (Wattala).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Elite Indian Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Elite Indian Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Empire Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Empire Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Euphorium.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Euphorium.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/FLOW (Hilton Colombo Residences) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/FLOW (Hilton Colombo Residences) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Family Baker.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Family Baker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Far East Indonesian Cuisine.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Far East Indonesian Cuisine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fat Guy BBQ.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fat Guy BBQ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fat Panda.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fazly's Halal Refreshment.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fazly's Halal Refreshment.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fenghuang Lou.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fenghuang Lou.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fifty7 (Jetwing Colombo Seven).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fifty7 (Jetwing Colombo Seven).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fine Things (Hilton).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fine Things (Hilton).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flag And Whistle.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flag And Whistle.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flamingo House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flamingo House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flamingo Restaurant (Ceylon City Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flamingo Restaurant (Ceylon City Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flavors (Galadari) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flavors (Galadari) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flavoured (Cinnamon Red).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flavoured (Cinnamon Red).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flow Health Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flow Health Bar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flower Drum.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flower Drum.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flower Gate.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flower Gate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Flower Song.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Flower Song.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Food City BBQ.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Food City BBQ.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Foodie Adventure.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Foodie Adventure.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Foodie-Colombo (Home Baker) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Foodie-Colombo (Home Baker) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Foody Goody.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Foody Goody.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fort Rotti Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fort Rotti Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fortaleza.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fortaleza.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fortune Boat.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fortune Boat.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Forty Forty Foods.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Forty Forty Foods.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fountain Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fountain Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Fresheta.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Fresheta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Frosties.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Frosties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Frosty Roll.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Frosty Roll.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Frozen .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Frozen .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Galle Caterers.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Galle Caterers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Galle Fort Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Galle Fort Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gami Gedara (Nugegoda).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gami Gedara (Nugegoda).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Garden Cafe (T-sips) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Garden Cafe (T-sips) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Garton's Ark.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Garton's Ark.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gecko.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gecko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gelato Italiano by Roots.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gelato Italiano by Roots.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Genghis.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Genghis.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gerard Mendis Chocolatier.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gerard Mendis Chocolatier.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gihans Family Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gihans Family Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ginger.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ginger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ginza On The Edge (Waters Edge).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ginza On The Edge (Waters Edge).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Giovanni's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Giovanni's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gloria Jean's Coffees.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gloria Jean's Coffees.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Golden Dragon (Taj).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Golden Dragon (Taj).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gonuts With Donuts.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gonuts With Donuts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Good Market Shop (Lakpahana Grounds) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Good Market Shop (Lakpahana Grounds) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Gorgeous Cakes.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Gorgeous Cakes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Governor's Restaurant (Mount Lavinia Hotel).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Grand Beijing.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Grand Beijing.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Grand Ella Motel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Grand Ella Motel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Grand Indian (Grand Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Grand Indian (Grand Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Grand Solis.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Grand Solis.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Grand Thai (Grand Hotel, NE).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Grand Thai (Grand Hotel, NE).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Grande Gourmet at Nirj's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Grande Gourmet at Nirj's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Grandpila Family Restaurant .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Grandpila Family Restaurant .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Graze Kitchen (Hilton Colombo).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Graze Kitchen (Hilton Colombo).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Great Wall .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Great Wall .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Green Cabin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Green Mangrove River Safari and Restaurant .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Green Mangrove River Safari and Restaurant .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Greenlands Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Greenlands Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hammock Cafe &amp; Pub (Galle Dutch Hospital).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hammock Cafe &amp; Pub (Galle Dutch Hospital).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Han Gook Gwan.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Han Gook Gwan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hansa Coffee.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hansa Coffee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Happy Banana .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Happy Banana .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Happy Burger.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Happy Burger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Harbour Court (Kingsbury).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Harbour Court (Kingsbury).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Harbour Room (Grand Oriental Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Harbour Room (Grand Oriental Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Harpo's Pizza (Mount Lavinia).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Harpo's Pizza (Mount Lavinia).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Harpo's Pizza (Nugegoda).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Harpo's Pizza .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Harpo's Pizza .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hasara Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hasara Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hash Deli .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hash Deli .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Havi Restaurant &amp; Bar (Thalahena).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Havi Restaurant &amp; Bar (Thalahena).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Havi Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hazari's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hazari's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Health Factor.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Health Factor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hebrew's Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hebrew's Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Heladiv Tea Club (Dutch Hospital) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Heladiv Tea Club (Dutch Hospital) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Heladiva.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Heladiva.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hideaway Villas.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hideaway Villas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hill Top Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hondahitha - The Curd Shop.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hondahitha - The Curd Shop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hot Cabin (Diyatha Uyana).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel Amirthaa .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel Amirthaa .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel Bankshall.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel Bankshall.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel De Buhari.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel De Buhari.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel De New Pilawoos (Bambalapitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel De New Pilawoos (Bambalapitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel De Pilawoos (Kollupitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel De Pilawoos (Kollupitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel De Plaza.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel De Plaza.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel Rolex (Jaffna).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel Rolex (Jaffna).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel Top Form.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Hotel de Majestic.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Hotel de Majestic.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/House Of Biriyani.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/House Of Biriyani.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Huasui Chinese Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Huasui Chinese Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/IceBear Century Café (Negombo) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/IceBear Century Café (Negombo) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Icebair Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Icebair Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Iceburg .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Iceburg .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ikoi Tei (Dutch Hospital).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Il Cielo.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Il Cielo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Il Gelato (Duplication Road).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Il Gelato (Duplication Road).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Il Gelato.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Il Gelato.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Il Ponte (Hilton).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Il Ponte (Hilton).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/In Doo Se Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/In Doo Se Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Indian Chaat Corner.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Indian Chaat Corner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Indian Hut Family Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Indian Hut Family Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Indian Spice.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Indian Spice.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Indian Summer.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Indian Summer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Indo Ceylon Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Indo Ceylon Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Indramalee.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Indramalee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Infinity Cuisine.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Infinity Cuisine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Isso.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Isso.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Itsy Bitsy Cupcakes.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Itsy Bitsy Cupcakes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ivy Lane Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ivy Lane Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jack Tree.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jack Tree.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jade.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jade.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jadi Samaga Game Kema.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jadi Samaga Game Kema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jamaican Chicken.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jamaican Chicken.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jasmine Song Restaurant .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jasmine Song Restaurant .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jasmine Song.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jasmine Song.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Java Lounge (Bambalapitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Java Lounge (Bambalapitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Java Lounge (Fort).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Java Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Java Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jeewa's Polos and Kuma's Natural Foods.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jeewa's Polos and Kuma's Natural Foods.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jeorgie's Healthy Style Food .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jeorgie's Healthy Style Food .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jetwing Kaduruketha (Restaurant).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jetwing Kaduruketha (Restaurant).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jolly Bees Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jolly Bees Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jolly's Ice Cream (Dehiwala).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jolly's Ice Cream .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jolly's Ice Cream .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Juiceez (Battaramulla).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Juiceez (Battaramulla).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Juiceez.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Juiceez.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Jungle Juice (Pelawatte).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Jungle Juice (Pelawatte).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/K Town Bakes.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/K Town Bakes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/KFC - Majestic City.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/KFC - Majestic City.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/KGN Burgers on Wheels.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/KGN Burgers on Wheels.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kaema Sutra.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kaha Bath Gedara.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kaha Bath Gedara.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kami Maki (Delivery).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kami Maki (Delivery).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kami Maki.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kami Maki.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kamrose Restaurant (Panadura).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kamrose Restaurant (Panadura).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kandoori (Beruwala).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kandoori (Beruwala).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kandoori.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kandoori.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Karapincha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kash's Kitchen (Ambalantota).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kash's Kitchen (Ambalantota).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kate Ryori.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kate Ryori.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kebabish .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kebabish .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/King Chef Restaurant .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/King Coconut.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/King Coconut.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/King Taste Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/King Taste Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kingfisher (Unawatuna).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kingfisher (Unawatuna).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kinjou.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kinjou.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kitchen 06‍.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kitchen 06‍.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Klassy (Battaramulla).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Klassy (Battaramulla).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Klassy Pastry Shop .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Klassy Pastry Shop .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kopi Kade .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kopi Kade .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Korean Barbecue KBQ .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Korean Barbecue KBQ .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kottu &amp; Co.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kottu &amp; Co.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kottulabs.lk.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kottulabs.lk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Krishna (Arcade Independence Square).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Krishna (Arcade Independence Square).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Krua Thai by Dao.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Krua Thai by Dao.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kumbuk Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kumbuk Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kurumba.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kurumba.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kurundu.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kurundu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kushmi Foods.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kuuraku Colombo.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Kuuraku Colombo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Kyung Bok Kung.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/La Langousterie.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/La Langousterie.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/La Trattoria.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/La Trattoria.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lak Rasa Caterers .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lak Rasa Caterers .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lani's Sea Food Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lani's Sea Food Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lantheruma (The Lantern).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lantheruma (The Lantern).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Latitude (Buffet, Taj).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Latitude (Buffet, Taj).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lavinia Bakers.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lavinia Bakers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Le Papillon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/LeeSH.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/LeeSH.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Let's Brunch.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Let's Brunch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Let's Taco.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Let's Taco.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Liberty Plaza Food Court.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Liberty Plaza Food Court.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Licensed to Grill.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Licensed to Grill.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Life Food.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Life Food.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lifestyle Gym Snack Bar .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lifestyle Gym Snack Bar .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Light House Galley .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lion Pub.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lion Pub.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Little Star.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Little Star.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lobby Bistro (The Kingsbury Luxury Serviced Apartments at Platinum 1).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lobby Bistro (The Kingsbury Luxury Serviced Apartments at Platinum 1).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lobster Seafood Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lobster Seafood Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/London Grill  (Cinnamon Grand).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/London House of Coffee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Long Feng (Cinnamon Lakeside).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Long Feng (Cinnamon Lakeside).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Loon Tao.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Loon Tao.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lords (Negombo).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lords (Negombo).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lounge 171.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lounge 171.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lucky Star .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lucky Star .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Lunu Ambula.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Lunu Ambula.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/MOMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mabroc Bubble Tea.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mabroc Bubble Tea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Machang (Pannipitya).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Machang (Rella Moratuwa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Machang (Rella Moratuwa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Macky's Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Macky's Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mad Dog's Bodega (Heritance Negombo).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mad Dog's Bodega (Heritance Negombo).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Maharaja Palace.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Maharaja Palace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mainland China.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Makye Ame.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Makye Ame.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Malay Restaurant .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Malay Restaurant .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Malayan Cafe (Jaffna).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Malayan Cafe (Jaffna).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mama Aida's Catering.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mama Aida's Catering.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mama's Chicken (Liberty Plaza Food Court).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mama's Chicken (Liberty Plaza Food Court).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mamas Galle Fort Guest House .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mamas Galle Fort Guest House .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mamas Galle Fort Roof Café (Galle).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mamas Galle Fort Roof Café (Galle).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mambo's Hikkaduwa.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mambo's Hikkaduwa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mango &amp; Company.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mango &amp; Company.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mango Mango Indian Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mango Mango Indian Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mangos (Jaffna).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mangos (Jaffna).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Margie's Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Margie's Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Marrybrown .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Marrybrown .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mathura Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mathura Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mayura Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mayura Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/McDonald's (Colpetty).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/McDonald's (Colpetty).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/McDonald's (Nugegoda).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/McDonald's (Nugegoda).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/McDonald's (Welisara).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/McDonald's (Welisara).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/McDonald's Delivery (McDelivery).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/McDonald's Delivery (McDelivery).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Meal Centre.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Meal Centre.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Metabolix.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Metabolix.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Milk &amp; Honey Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Milk &amp; Honey Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Millennium Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Millennium Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Min Han.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Min Han.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ministry Of Crab (Dutch Hospital).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mintage Restaurant &amp; Pub.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mintage Restaurant &amp; Pub.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mintage Restaurant (Galle).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mirissa Beach Wadiya.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mirissa Beach Wadiya.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mirissa Eye Beach Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mirissa Eye Beach Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Miss Whisk .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Miss Whisk .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mithuro Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mithuro Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mitsi's Delicacies.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Miyon.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Miyon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mlesna Tea Fortress.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mlesna Tea Fortress.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Moksha.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Moksha.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Momo's by Ruvi.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Momo's by Ruvi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mona's Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mona's Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mongolian BBQ (Majestic City).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Monsoon.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Monsoon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Monster Cookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Monster Cookies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Moon River.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Moon River.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Moreish .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Moreish .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mount Grill.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mount Grill.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mount Lavinia Hotel Buffet .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mount Lavinia Hotel Buffet .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mr Burger.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mr. Kottu Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mr. Pepper.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mr. Pepper.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mrs. Flogesteen's Pork.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mrs. Flogesteen's Pork.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mune's Kalu Dodol.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mune's Kalu Dodol.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/My Burger.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/My Burger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/My Sister's Kitchen .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/My Sister's Kitchen .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Mythi's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Mythi's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Namaste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nana's (Galle Face) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nana's (Galle Face) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nandi's Milk Toffee.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nandi's Milk Toffee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Naniyori.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Naniyori.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nara Thai .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nasi Lemak Corner.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nasi Lemak Corner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Natural Coffee.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Natural Coffee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Navayuga.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Navayuga.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Navratna (Taj) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Navratna (Taj) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Navro Beach Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nelum Kole.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nelum Kole.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/New Gadaby Rest Inn (Kaththankudy).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/New Gadaby Rest Inn (Kaththankudy).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/New Hotel Mayuri.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/New Hotel Mayuri.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/New Majestic Hotel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/New Saraswati Cafe .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/New Saraswati Cafe .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/New Summer Garden Restaurant &amp; Guest House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/New Summer Garden Restaurant &amp; Guest House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Newprema.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Newprema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nihal's (Jetwing Lighthouse Club).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nihal's (Jetwing Lighthouse Club).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nihonbashi (ODEL).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nihonbashi (ODEL).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nihonbashi Honten.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nihonbashi Honten.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/No.1 Dewmini Roti Shop (Mirissa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/No.1 Dewmini Roti Shop (Mirissa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Noodles (Cinnamon Grand) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Noodles (Cinnamon Grand) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nordic House (Hikkaduwa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nordic House (Hikkaduwa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Nuga Gama (Cinnamon Grand).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Nuga Gama (Cinnamon Grand).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Off The Hook.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Off The Hook.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Olive Garden Restaurant and Bakers.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Olive Garden Restaurant and Bakers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Olive Garden Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Olive Garden Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Olive's Kitchen &amp; Grill.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/One Seven One.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/One Seven One.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/OneUp All Day Breakfast.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/OneUp All Day Breakfast.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Orchid Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Orchid Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Oro 1889.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Oro 1889.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Oshella.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Oshella.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/PODI the Fusion Bistro.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/PODI the Fusion Bistro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Paan Paan Sandwich Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Paan Paan Sandwich Bar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Paan Paan.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Paan Paan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pages &amp; Coffee.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pages &amp; Coffee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pagoda Tea Rooms.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pagoda Tea Rooms.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Palm Strip (At The Airport).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Palm Strip (At The Airport).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Palmyrah (Hotel Renuka).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Palmyrah (Hotel Renuka).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Panaash.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Panaash.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Panino (Cotton Collection) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Panino (Cotton Collection) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Panino.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Panino.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Paradise (Sri Lankan Vegetarian Food Court).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Paradise (Sri Lankan Vegetarian Food Court).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Paradise Road Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Paradise Road Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Park Street Mews Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Park Street Mews Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Park Street Trattoria.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Park Street Trattoria.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pasco Food Blush.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pasco Food Blush.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Peace Villa Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Peace Villa Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Peach Valley.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Peach Valley.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pebbles (Taj Samudra).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pebbles (Taj Samudra).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pedlar's Inn Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pedlar's Inn Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pedlar's Inn Gelato (Galle).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pedlar's Inn Gelato (Galle).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pedlar's Inn Pizzeria.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pedlar's Inn Pizzeria.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pegasus Reef (Restaurant).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pegasus Reef (Restaurant).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Peking Palace.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Peking Palace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pelican Restaurant (Kalutara).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Peppers (Majestic City).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Peppers (Majestic City).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Perera &amp; Sons.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Perera &amp; Sons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Peri Peri Kukula.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Peri Peri Kukula.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pho Vietnam.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pho Vietnam.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pigeon Island Beach Resort.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pigeon Island Beach Resort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pink Lotus Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pink Lotus Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pink Sugar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pink Sugar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Piyoran.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Piyoran.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pizza Hut (Attidiya).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pizza Hut.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pizza Hut.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Platinum Pier.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Platinum Pier.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Plunkett Posh Kottu.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Plunkett Posh Kottu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Podi Hoona - The Little Gecko Luxury Campsite.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Podi Hoona - The Little Gecko Luxury Campsite.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ponnusamy Non-Veg Chettinad Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Poonie's Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Poonie's Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Poppy Hana (Urban Kitchen).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Poppy Hana (Urban Kitchen).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pot Biriyani.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pot Biriyani.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Praneetha.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Praneetha.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pranzo (Waters Edge) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pranzo (Waters Edge) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Prego.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Prego.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pronto Pizza.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pronto Pizza.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Pugzy's Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Pugzy's Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Qahwah (Almonds).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Qahwah (Almonds).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Queen's Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Queen's Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Quick Thai (Battaramulla).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Quick Thai (Colombo 7).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/R &amp; R Beach Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/RTM Delights.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/RTM Delights.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Raheema Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Raheema Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Raja Bojun.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Raja Bojun.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rakna Lanka (Diyawanna Kotthu Hut).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rakna Lanka (Diyawanna Kotthu Hut).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ramen Misoya Colombo.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ramen Misoya Colombo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Randoli Sports Club.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Randoli Sports Club.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ranminithenna Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ranminithenna Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rasa Bojun (Kollupitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rasa Bojun (Kollupitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rasa Sayang Indian Food.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rasembula.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rasembula.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Red Fort Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Red Fort Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Red Orchids.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Red Snapper.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Red Snapper.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rice Box.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rio Ice Cream (Jaffna).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rio Ice Cream (Jaffna).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rio Ice Cream (Negombo).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rio Ice Cream (Negombo).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rio Ice Cream (Wellawatte) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rio Ice Cream (Wellawatte) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/River View Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/River View Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Riviera Resort (Batticaloa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Riviera Resort (Batticaloa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Robata Grill &amp; Lounge (Mövenpick Hotel Colombo).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rocco's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rocco's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Rolex Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Rolex Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Romano Italian Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Romano Italian Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Room Service Deliveries .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Room Service Deliveries .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Roots (Kohuwala).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Roots (Kohuwala).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Roots Gelato (Crescat Boulevard).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Roots Gelato (Crescat Boulevard).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Roots.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Roots.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Round Island .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Round Island .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Royal Bakery.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Royal Bakery.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Royal Burger.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Royal Burger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Royal Cashews (Crescat).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Royal Cashews (Crescat).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Royal Thai (Cinnamon Lakeside).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Royal Thai (Cinnamon Lakeside).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Ru's Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Ru's Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/SUB Station.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/SUB Station.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/SaBaBa's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/SaBaBa's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Saffron Kitchens (Hospital Street).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Saffron Kitchens (Hospital Street).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Saffron Kitchens.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Saffron Kitchens.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Saffron Persian Delights (Good Market) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Saffron Persian Delights (Good Market) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Saffron and Vanilla .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Saffron and Vanilla .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sahan Agro Strawberry Corner.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sahan Agro Strawberry Corner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sakura Foods.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sakura Foods.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Salad Guru.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Salad Guru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Salaka Senkada.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Salty Swamis Cafe &amp; Surf Shop (Hikkaduwa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Salty Swamis Cafe &amp; Surf Shop (Hikkaduwa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Salwa Turkish Food.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Salwa Turkish Food.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Samanala Restaurant.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sameeha Family Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sameeha Family Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sanekvin Restaurant &amp; Bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Santoré Bistro Italiano.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Saraswathie Lodge (Bambalapitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Saraswathie Lodge (Bambalapitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sasha Food Court (Kurana).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sawadee (Mount Breeze Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sawadee (Mount Breeze Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Scarlet Room (Colombo Courtyard).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Schakasz.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Schakasz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Scrumptious Wedding Cakes.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Scrumptious Wedding Cakes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sea Breeze Seafood Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sea Breeze Seafood Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sea Fish Restaurant &amp; Bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sea Food Weligama (Mama's Place) at Fishpoint Weligama.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sea Food Weligama (Mama's Place) at Fishpoint Weligama.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sea Fruit Bar and Coffee Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sea Fruit Bar and Coffee Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Seafood Cove (Mt. Lavinia Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Seafood Cove (Mt. Lavinia Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Semondu (Dutch Hospital).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sen Saal (Battaramulla).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sen Saal.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Senkada Salaka Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Senkada Salaka Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sentosa Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sentosa Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Seoul.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Seoul.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Serendipity Arts Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Serendipity Arts Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sesto Senso.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sesto Senso.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Seth.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Seth.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Seven Eleven Restaurant &amp; Bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Shahla's Baked Bliss .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Shahla's Baked Bliss .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Shandong Chinese Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Shandong Chinese Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Shang Palace (Shangri-La Colombo).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Shangahi Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Shangahi Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Shanghai Terrace.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Shanghai Terrace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Shanmugas.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Shanmugas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sheherazade Arabic Restaurant (Galadari).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sherry Land Restaurant &amp; Pub.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sherry Land Restaurant &amp; Pub.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Shri Vani Vilas.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Shri Vani Vilas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Siam House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Siam House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sidarang Fresh Fruit Juice.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sidarang Fresh Fruit Juice.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Side Walk Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Side Walk Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sigiri (Manhattan, New York).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sigiri (Manhattan, New York).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Silk Route.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Silk Route.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Simply Strawberries By Jagro (Cotton Collection).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Simply Strawberries By Jagro (Cotton Collection).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Simply Strawberries By Jagro (Kotte).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Simply Strawberries By Jagro (Kotte).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sits .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sits .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/SkinnyTom's Deli (Bedspace) Unawatuna.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/SkinnyTom's Deli (Bedspace) Unawatuna.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Skrumptious .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Skrumptious .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Slightly Chilled.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Smokey's (The Brownie Bar).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Smokey's (The Brownie Bar).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Snow Monkey (Food Station).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Snow Monkey (Food Station).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sovereign German Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sovereign German Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Spaghetti &amp; Co.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Spaghetti &amp; Co.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Spice &amp; Curry.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Spice &amp; Curry.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Spice &amp; Ice (Omega Regency Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Spice &amp; Ice (Omega Regency Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Spice Coast.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Spice Coast.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Spinner.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Spinner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Spisia.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sponge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sponge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sri Ariyabawan Hotel (Borella).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sri Ariyabawan Hotel (Borella).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sri Suryas.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sri Suryas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sri Vihar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sri Vihar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Star Dogs.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Star Dogs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Steam Boat (Moratuwa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Steam Boat (Moratuwa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Steam Boat (Mount Lavinia).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Steam Boat (Mount Lavinia).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Steam Boat (Nawala).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Steam Boat (Nawala).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Streat360.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Street Food Republic.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Street Food Republic.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Subway (Mount Lavinia).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Subway (Rajagiriya) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Subway (Rajagiriya) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Subway.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Subway.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sudarshan Veg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sugar Bistro &amp; Wine Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sugar Bistro &amp; Wine Bar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sugar Bistro Galle Fort.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sugar Bistro Galle Fort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sugar Rush .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sugar Rush .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sugarcube.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sugarcube.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Suki's Wok.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Suki's Wok.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sulthan Palace.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sulthan Palace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Summer Set.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sun Hill Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sun Hill Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sunlight Garden .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sunlight Garden .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sunway Delight (Liberty Plaza Food Court).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sunway Delight (Liberty Plaza Food Court).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sushi Kai.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sushi Kai.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sweet Layers.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sweet Layers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sweet Tomato.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sweet Tomato.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sweet Wishes by Vish.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sweet Wishes by Vish.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Sweetberry.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Sweetberry.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Swyree.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/TACOCAT.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/TACOCAT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/TGI Friday's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/TGI Friday's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Taco Bell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tagine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Talpe Beach Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Talpe Beach Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tammy's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tammy's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tang Dynasty.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tang Dynasty.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tao (Cinnamon Grand).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Taprobane (Cinnamon Grand).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Taprobane (Cinnamon Grand).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tartaruga Restaurant  (Unawatuna).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tartaruga Restaurant  (Unawatuna).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Taste Of Asia.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Taste Of Asia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Taste of Asia (World Trade Center).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Taste of Asia (World Trade Center).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tasty Caterers.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tasty Caterers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tatlers Tea.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tatlers Tea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tea Avenue (WTC).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tea Avenue (WTC).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tea Avenue - Marine Drive.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tea Avenue - Marine Drive.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tea Avenue.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tea Avenue.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tea Blog.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tea Blog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tea Breeze  (Racecourse).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tea Breeze  (Racecourse).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tea Breeze.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tea Breeze.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tea Triumph .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tea Triumph .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Terro's Pies &amp; Roasts.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Terro's Pies &amp; Roasts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Thai Cuisine La Rambla.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Thai Cuisine La Rambla.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Thai Express.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Thai Express.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Thai Heritage (Galle Dutch Hospital) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Thai Heritage (Galle Dutch Hospital) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Thalis .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Thalis .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Angler.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Angler.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Bakery at the Edge (Waters Edge) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Bakery at the Edge (Waters Edge) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Barefoot Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Barefoot Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Barnesbury.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Barnesbury.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Bavarian Garden (Water's Edge).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Bavarian Garden (Water's Edge).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Bayleaf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Beach Wadiya.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Beach Wadiya.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Boardwalk.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Boardwalk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Boulevard .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Boulevard .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Bread Company (German Artisan Bakers).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Bread Company (German Artisan Bakers).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Brick Lane Cookie Company (Fort).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Brick Lane Cookie Company (Fort).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Bridge Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Bridge Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Brown Bean Coffee (British Council).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Brown Bean Coffee (British Council).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Bungalow - Galle Fort.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Bungalow - Galle Fort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Cabinet (Hotel Nippon).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Cabinet (Hotel Nippon).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Cake Factory (5th Lane).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Cake Factory (5th Lane).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Cakery.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Cakery.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Cauldron.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Cauldron.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Ceylon City Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Ceylon City Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Chariot (Bambalapitiya).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Chariot (Bambalapitiya).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Chariot (Dehiwala).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Chariot (Dehiwala).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Chariot (World Trade Center).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Chariot (World Trade Center).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Coffee Bean &amp; Tea Leaf (Liberty Plaza Podium) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Coffee Bean &amp; Tea Leaf (Liberty Plaza Podium) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Coffee Bean &amp; Tea Leaf.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Coffee Bean &amp; Tea Leaf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Coffee Bean and Tea Leaf (Galle Road).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Coffee Bean and Tea Leaf (Galle Road).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Colombo Cafe .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Colombo Cafe .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Colombo Food Court.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Colombo Food Court.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Colombo Swimming Club.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Colombo Swimming Club.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Courtyard (Tintagel Boutique Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Courtyard (Tintagel Boutique Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Crab Company.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Crab Company.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Cricket Club Cafe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Delicacy Top.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Delicacy Top.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Dining Room (Cinnamon Lakeside).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Dining Room (Cinnamon Lakeside).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Dodol House .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Dodol House .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Dutch Bank Café.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Dutch Bank Café.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Fab (Moratuwa).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Fab (Moratuwa).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Fab (Wattala).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Fab (Wattala).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Fab Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Fab Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Fab.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Fab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Fat Crab.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Fat Crab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Fishery (Pegasus Reef).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Floor by O!.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Floor by O!.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Food Station.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Food Station.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Fresh Milk Shop (Kiri Kade).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Fresh Milk Shop (Kiri Kade).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Gallery Café.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Gallery Café.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Gardenia Coffee Shop (Ramada) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Gardenia Coffee Shop (Ramada) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Gourmet Station (The Kingsbury) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Gourmet Station (The Kingsbury) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Grand – Espresso Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Grand – Espresso Bar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Grill (Kingsbury Hotel) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Grill (Kingsbury Hotel) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Grill by Paan Paan.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Grill by Paan Paan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Havelock Place Bungalow.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Havelock Place Bungalow.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Heritage Cafe &amp; Bistro.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Heritage Cafe &amp; Bistro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Icebair Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Icebair Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Island Coffee Shop.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Island Coffee Shop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Kambury.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Kambury.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Kandos Shop .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Kandos Shop .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Keg (Excel World).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Keg (Excel World).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Kitchen Galle Fort.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Kitchen Galle Fort.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Lagoon (Cinnamon Grand).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Lagoon (Cinnamon Grand).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Last Drop.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Last Drop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Lattice (Taj Samudra).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Lattice (Taj Samudra).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Lavinia Breeze Mount Lavinia.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Lavinia Breeze Mount Lavinia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Lounge (Cinnamon Lakeside).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Lounge (Cinnamon Lakeside).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Manchester.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Manchester.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Mango Tree.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Mango Tree.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Manhattan Fish Market.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Manhattan Fish Market.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Noodle Monkey.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Noodle Monkey.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Ocean (The Kingsbury).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Ocean (The Kingsbury).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Original Rocket Burger.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Original Rocket Burger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Paddington.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Promenade at ODEL.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Promenade at ODEL.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Pudding Stop.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Pudding Stop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Red Pineapple by Torana.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Red Pineapple by Torana.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Regent Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Regent Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The RoadHouse.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The RoadHouse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Salad Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Salad Bar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sandwich Factory (Colombo 3).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sandwich Factory (Colombo 3).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Savoury Monkey.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Savoury Monkey.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Shore By O!.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Shore By O!.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sizzle.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sizzle.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sooriya Village .json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Soya Center (Kandy).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Soya Center (Kandy).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Spectrum.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Spectrum.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Stairway.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Stairway.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Station.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Station.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sugar Burger Cart.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sugar Burger Cart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sugar Shack.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sugar Shack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sushi Bar (Samurai) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sushi Bar (Samurai) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sushi Bar (Samurai).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sweet Tooth.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sweet Tooth.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Sweeter Side .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Sweeter Side .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Tangerine (Calamansi Cove) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Tangerine (Calamansi Cove) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Travelling Food Tuk .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Travelling Food Tuk .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Tuna &amp; The Crab.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Tuna &amp; The Crab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Vege Way.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Vege Way.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Verandah (Galle Face Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Verandah (Galle Face Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The VoV Coffee Lounge.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The VoV Coffee Lounge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Vu.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Vu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Waffle Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/The Waffle Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/The Woods.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Theva Cuisine.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Theva Cuisine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Thinesh Bake House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Thinesh Bake House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Thiru Murugan's Food Waves.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Thiru Murugan's Food Waves.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Thulasi Hotel (Badulla).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Thulasi Hotel (Badulla).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tiki Cliff Top Restaurant and Bar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tiki Cliff Top Restaurant and Bar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Toby's Estate .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Toby's Estate .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tokiwa Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tokiwa Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tom Yum.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tom Yum.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tomato (Batticaloa).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tong Ni BBQ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Top Secret Beach Restaurant (Hikkaduwa) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Top Secret Beach Restaurant (Hikkaduwa) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tori House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tori House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tosakanth's Roast Paan.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tosakanth's Roast Paan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Townhouse by &amp;Co.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Townhouse by &amp;Co.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Trainspotter (Global Towers Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Trainspotter (Global Towers Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Treats n Stuff.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Treats n Stuff.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tropical Bliss.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tropical Bliss.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tropical Fresh.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tropical Fresh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tsing Tao (Colombo Racecourse).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tsing Tao (Colombo Racecourse).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Tsukiji  Uoichi.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Tsukiji  Uoichi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Udumbara JU Caterers.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Udumbara JU Caterers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Umbrella Art Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Umbrella Art Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Upali's.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Upali's.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Urban Cafe.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Urban Cafe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Urban Green.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Urban Green.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Urban Kitchen.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Urban Kitchen.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Uva Hotel.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Uva Hotel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/VOC Cafe (Dutch Burgher Union) .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/VOC Cafe (Dutch Burgher Union) .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Verandah Bistro &amp; Bar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Vilasa Cottage.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Vilasa Cottage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Warehouse Project.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Warehouse Project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Watalappan.lk.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Watalappan.lk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Waterscape (Kingsbury).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Waterscape (Kingsbury).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Waves.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Wayne's Junction.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Wayne's Junction.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/We Ai Family.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/We Ai Family.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Which Way West.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Whight &amp; Co.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Wijaya Beach.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Wijaya Beach.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Wonderbar.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Wonderbar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Wonderland.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Wonderland.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Xilaton .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Xilaton .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/YUMI (Taj Samudra).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/YUMI (Taj Samudra).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Yaal Restaurant.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Yaal Restaurant.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Yacht Cabin - Global Towers Hotel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Yakitori Garden (Nihonbashi).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Yakitori Garden (Nihonbashi).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Yarl Eat House.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Yarl Eat House.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Yue Chuan (Kingsbury).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Yue Chuan (Kingsbury).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Yumi Cake.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Yumi Cake.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/ZY cuppies Màcaroons.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/ZY cuppies Màcaroons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Zen (Zylan Boutique Hotel).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Zen (Zylan Boutique Hotel).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Zephyr (Arugam Bay).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Zephyr (Arugam Bay).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Zephyr Restaurant &amp; Bar .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Zephyr Restaurant &amp; Bar .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Zephyr Talalla.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Zephyr Talalla.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/Zion Fountain Cafe .json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/Zion Fountain Cafe .json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/a &amp; m Cupcakes.json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/a &amp; m Cupcakes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/rare at Residence (Uga Residence).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/rare at Residence (Uga Residence).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/the KAFÉ (Hotel Nippon).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/the KAFÉ (Hotel Nippon).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/corpus/වාඩි Food (Pelawatta).json" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/restaurant_corpus/වාඩි Food (Pelawatta).json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/scraper/spiders/restaurant_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/scraper/spiders/restaurant_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,12 +1076,12 @@
     <SUITE FILE_PATH="coverage/CS4642_IR_W_S_Mendis$test_spider.coverage" NAME="test_spider Coverage Results" MODIFIED="1529324882373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scraper/scraper/spiders" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test_spider.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/test_spider.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="restaurant_spider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/restaurant_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="585">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -28,38 +1089,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraper/scraper/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraper/scraper/items.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="blog_spider.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/blog_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraper/scraper/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-973" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraper/scraper/pipelines.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scraper/scraper/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-778" />
+            <state relative-caret-position="1335">
+              <caret line="89" column="73" selection-start-line="89" selection-start-column="73" selection-end-line="89" selection-end-column="73" />
+            </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -79,6 +1132,9 @@
       <list>
         <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/scraper/scraper/spiders/test_spider.py" />
+        <option value="$PROJECT_DIR$/scraper/scraper/settings.py" />
+        <option value="$PROJECT_DIR$/scraper/scraper/spiders/restaurant_spider.py" />
+        <option value="$PROJECT_DIR$/scraper/scraper/spiders/blog_spider.py" />
       </list>
     </option>
   </component>
@@ -190,25 +1246,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32910052" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24126984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24126984" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12466271" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32910052" />
+      <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -226,13 +1283,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test.py">
+    <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/restaurant_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scraper/scraper/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper/scraper/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="89" column="73" selection-start-line="89" selection-start-column="73" selection-end-line="89" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py" />
     <entry file="file://$USER_HOME$/anaconda3/envs/DDIS/lib/python3.6/site-packages/scrapy/spiders/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -240,57 +1311,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/quotes.jl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/quotes.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/restaurants.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="173" selection-start-column="173" selection-end-column="173" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/Awanhala (Ambepussa).txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/corpus/The Bungalow - Galle Fort.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/corpus/The Last Drop.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/corpus/We Ai Family.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/scraper/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/scraper/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper/restaurants.json" />
     <entry file="file://$PROJECT_DIR$/scraper/scraper/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-973" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/scraper/pipelines.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scraper/scraper/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-778" />
+        <state relative-caret-position="1335">
+          <caret line="89" column="73" selection-start-line="89" selection-start-column="73" selection-end-line="89" selection-end-column="73" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/test_spider.py">
+    <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/restaurant_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="585">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper/scraper/spiders/blog_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
